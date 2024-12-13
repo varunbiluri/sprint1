@@ -22,4 +22,5 @@ This project is focused on developing a web platform with **Signup**, **Login**,
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/varunbiluri/sprint1.git
+   
